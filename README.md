@@ -11,7 +11,7 @@ mkdir spider
 ``
 ## 初始化
 ``
-mpn init
+npm init
 ``
 ## 安装依赖库
 ``
